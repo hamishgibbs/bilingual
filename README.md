@@ -1,5 +1,7 @@
 # Bilingual
 
+🐍 ➕ ®️
+
 A repository for interactive Python & R development using the [Atom IDE](https://atom.io/).
 
 ## Features
