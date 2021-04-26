@@ -63,7 +63,7 @@ Run the file and check that everything is working alright (`cmd-enter`).
 
 **Note:** you may need to install the [`language-r`](https://atom.io/packages/language-r) package in Atom. You can find some more info in [this issue](https://github.com/nteract/hydrogen/issues/909).
 
-**Note:** You can use the remote kernel in any project directory - or incorporate this repo as a part of individuals projects. Whatever you prefer. There is no project state that is saved in the container when using the Jupyter kernel.
+**Note:** You can use the remote kernel in any project directory - or incorporate this repo as a part of individual projects. Whatever you prefer. There is no project state that is saved in the container when using the Jupyter kernel.
 
 ## Additional Information
 
@@ -71,4 +71,4 @@ A few more notes about bilingual Python & R development in Python.
 
 A nice feature when developing in RStudio is easy access to R-specific keyboard shortcuts like pipes `%<%` (if you are into that kind of thing) and variable assignment `<-`.
 
-Follow [this](http://www.goring.org/resources/atom_and_r.html) tutorial to add these handy shortcuts to your atom installation.
+Follow [this](http://www.goring.org/resources/atom_and_r.html) tutorial to add these handy shortcuts to your Atom installation.
