@@ -36,7 +36,7 @@ Enter the cloned repository and create an environment file with a token for your
 echo "JUPYTER_TOKEN=super_secret" >> .env
 ```
 
-The `super_secret` token is not very secure... You should provide your own token.
+The `super_secret` token is not very secure... You should provide your own token. Try `openssl rand -base64 36`.
 
 Build the Jupyter container with:
 
