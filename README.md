@@ -18,7 +18,7 @@ Previously, I used [RStudio](https://www.rstudio.com/) for R development and [At
 
 Switching IDEs is cumbersome and time consuming.
 
-I have also been unimpressed by the RStudio solutions for running Python code ([Reticulate](https://rstudio.github.io/reticulate/)). While you can technically run Python code interactively in RStudio, you sacrifice code styling in your IDE and can have trouble managing your python kernel.
+I have also been unimpressed by the RStudio solutions for running Python code ([Reticulate](https://rstudio.github.io/reticulate/)). While you can technically run Python code interactively in RStudio, you sacrifice code styling in your IDE and can have trouble managing your local python kernel.
 
 This approach provides a unified, Jupyter-like, interface for running Python and R code in the same IDE.
 
