@@ -14,7 +14,7 @@ Uses a single container for remote Python & R kernels.
 
 I use Python and R for development in the same projects. Many of my projects use Python and R side-by-side.
 
-Previously, I used [RStudio](https://www.rstudio.com/) for R development and [Atom](https://atom.io/) for Python development. Switching between IDEs greatly increases the friction in a project, especially because I typically conduct heavy analysis and data processing in Python and use R for visualisation.
+Previously, I used [RStudio](https://www.rstudio.com/) for R development and [Atom](https://atom.io/) for Python development. Switching between IDEs greatly increases friction in a project, especially because I typically conduct heavy analysis and data processing in Python and use R for visualisation.
 
 Switching IDEs is cumbersome and time consuming.
 
