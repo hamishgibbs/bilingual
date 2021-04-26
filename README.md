@@ -30,7 +30,7 @@ Clone this repository:
 git clone https://github.com/hamishgibbs/bilingual.git
 ```
 
-Enter the cloned repository and create an environment file with a token for your Jupyter kernel:
+Enter the cloned repository (`cd bilingual`) and create an environment file with a token for your Jupyter kernel:
 
 ``` {bash}
 echo "JUPYTER_TOKEN=super_secret" >> .env
